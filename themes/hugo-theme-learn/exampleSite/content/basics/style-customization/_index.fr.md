@@ -33,12 +33,12 @@ La taille du logo va s'adapter automatiquement
 
 ## Changer le favicon
 
-Si votre favicon est un png, déposez votre image dans votre dossier local `static/fcj-ss2-workshop-003/images/` et nommez le `favicon.png`
+Si votre favicon est un png, déposez votre image dans votre dossier local `static/fcj-ss2-workshop-004/images/` et nommez le `favicon.png`
 
 Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fichier dans `layouts/partials/` et nommez le `favicon.html`. Puis ajoutez quelque chose comme:
 
 ```html
-<link rel="shortcut icon" href="/fcj-ss2-workshop-003/images/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/fcj-ss2-workshop-004/images/favicon.png" type="image/x-icon" />
 ```
 
 ## Changer les couleurs par défaut {#theme-variant}
@@ -53,7 +53,7 @@ Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fi
   themeVariant = "red"
 ```
 
-![Variante rouge](/en/basics/style-customization/fcj-ss2-workshop-003/images/red-variant.png?width=60pc)
+![Variante rouge](/en/basics/style-customization/fcj-ss2-workshop-004/images/red-variant.png?width=60pc)
 
 ### Variante bleue
 
@@ -63,7 +63,7 @@ Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fi
   themeVariant = "blue"
 ```
 
-![Variante bleue](/en/basics/style-customization/fcj-ss2-workshop-003/images/blue-variant.png?width=60pc)
+![Variante bleue](/en/basics/style-customization/fcj-ss2-workshop-004/images/blue-variant.png?width=60pc)
 
 ### Variante verte
 
@@ -73,7 +73,7 @@ Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fi
   themeVariant = "green"
 ```
 
-![Variante verte](/en/basics/style-customization/fcj-ss2-workshop-003/images/green-variant.png?width=60pc)
+![Variante verte](/en/basics/style-customization/fcj-ss2-workshop-004/images/green-variant.png?width=60pc)
 
 ### Votre variante
 

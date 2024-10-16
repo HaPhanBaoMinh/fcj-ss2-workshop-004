@@ -15,7 +15,7 @@ home = [ "HTML", "RSS", "JSON"]
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-  imagePrefix = "fcj-ss2-workshop-003/"
+  imagePrefix = "fcj-ss2-workshop-004/"
   
 [Languages]
 [Languages.en]
